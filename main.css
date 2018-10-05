@@ -1,0 +1,52 @@
+.banner{
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:#0a0000;
+    text-align:center;
+}
+h2{
+    color:#5c0054;
+    text-align:center;
+    font-family: 'Astloch', cursive;
+}
+body {
+    background-image: url("https://static4.comicvine.com/uploads/original/11130/111309488/5671135-2506755163-gssPI.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    
+}
+#nav{
+	text-align: center;
+	padding-top:2px;
+	padding-bottom:2px;
+	font-size:20px;
+	}
+#nav a{
+	color:#26000d;
+    }
+    p{
+        color:red;
+        font-family: 'Allura', cursive;
+        font-size: 26px;
+
+
+    }
+li{
+    color:#8b29e1;
+     
+     font-family: 'Bad Script', cursive;
+    
+}
+#main{
+    width:1500px;
+    margin:auto;
+    border: red ridge 10px;
+    background-color:black;
+    
+}

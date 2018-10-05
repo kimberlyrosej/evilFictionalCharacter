@@ -1,0 +1,52 @@
+.banner{
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:#0a0000;
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align:center;
+}
+h2{
+    color:#5c0054;
+    text-align:center;
+    font-family: 'Old Standard TT', serif;
+}
+body {
+    background-image: url("https://speedforce.org/wp-content/uploads/2013/07/TT_Cv22_uosrnn2udn_.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    
+}
+
+#main{
+    width:1500px;
+    margin:auto;
+    border: purple ridge 10px;
+    background-color:white
+}
+p{
+        color:#7d2657;
+        font-family: 'Dancing Script', cursive;
+
+        font-size: 20px;
+
+
+    }
+    #nav{
+    text-align: center;
+    padding-top:2px;
+    padding-bottom:2px;
+    font-size:20px;
+    }
+#nav a{
+    color: #f7f205;
+    }
+    li{
+    color:#8b29e1;
+     
+     font-family: 'Bad Script', cursive;
